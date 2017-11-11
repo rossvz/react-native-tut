@@ -1,3 +1,3 @@
 Built by following a tutorial from Stephen Grider on Udemy.
 
-![Screenshot](https://imgur.com/a/hkUX1)
+![Screenshot](https://i.imgur.com/qPH1V3r.jpg)
